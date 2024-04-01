@@ -20,5 +20,3 @@ Data Cleaning: Clean the dataset by renaming columns, converting data types, and
 Exploratory Data Analysis (EDA): Conduct both univariate and bivariate analysis to understand the distribution of individual variables and explore relationships between them.
 Visualization: Use various plots to visualize the data and uncover patterns.
 Feature Engineering: Create new features that might be useful for further analysis.
-
-You can find the dataset in this link : https://www.kaggle.com/datasets/majedalhulayel/riyadh-marathon-2022-results-saudi-arabia 
